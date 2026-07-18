@@ -1,23 +1,23 @@
 <!--
   GitHub profile README for https://github.com/vip-ultr
-  This file only renders on the profile when it lives in a public repo named: vip-ultr/vip-ultr
+  Renders on the profile when this lives in the public repo: vip-ultr/vip-ultr
 -->
 
 <div align="center">
 
-# Ammar Usamah
+# Usamah Ammar
 
-**Full-stack engineer · Founder of [Optivis Labs](https://optivislabs.vercel.app)**
+**Software developer · Solana / Web3 · Founder of [Optivis Labs](https://optivislabs.vercel.app)**
 
-Design, development, and product engineering — from brand systems and client platforms  
-to Solana apps, AI tooling, and production web products.
+I design and build web and Web3 applications end to end — interface to on-chain integration — and ship them.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-usamahammar.vercel.app-111111?style=for-the-badge&labelColor=EDE6D8&color=E0A340)](https://usamahammar.vercel.app)
 [![Optivis Labs](https://img.shields.io/badge/Studio-Optivis%20Labs-111111?style=for-the-badge&labelColor=FAFAF7&color=34C759)](https://optivislabs.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamah-ammar-a06a6627a)
 [![X](https://img.shields.io/badge/@vip__ultr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vip_ultr)
-[![Instagram](https://img.shields.io/badge/@optivislabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/optivislabs/)
-[![Email](https://img.shields.io/badge/optivislabs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:optivislabs@gmail.com)
+[![Email](https://img.shields.io/badge/ammarusamah57%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarusamah57@gmail.com)
 
-Nigeria · Open to collaborations & client work
+Bayero University, Kano, Nigeria · Open to opportunities & collaboration
 
 </div>
 
@@ -25,109 +25,113 @@ Nigeria · Open to collaborations & client work
 
 ## About
 
-I'm a self-taught designer-turned-engineer based in Nigeria. I founded **Optivis Labs** in 2022 (originally AAU Graphics, rebranded 2025) after years of hands-on commercial print production — plate-setting, digital, and large-format work that still shapes how I ship: **clarity over cleverness, craft as a contract**.
+I'm **Usamah Ammar Abdul** — a Computer Science student at Bayero University and a self-directed developer. I work mostly in **TypeScript and React**, with a focus on **Solana / Web3**, and I care about shipping things that actually function rather than demos that only look the part.
 
-Today I split time between:
+Before code, I trained in **graphic design and print production**. That still shows up in how I work: attention to craft, and an eye for how a thing reads — not just whether it runs.
 
-- **Studio work** — brands, marketing sites, and digital products for founders, NGOs, and small teams  
-- **Product engineering** — full-stack web apps, AI-assisted tools, and on-chain Solana systems  
-- **Client platforms** — production CMS sites, portals, and ops-backed web products  
+I also run **[Optivis Labs](https://optivislabs.vercel.app)** — a design and development studio (founded 2022 as AAU Graphics, rebranded 2025) building brands, websites, and digital products for founders, NGOs, and small teams.
 
-I'm also studying **Computer Science** while running the studio.
+**→ Full story & case studies: [usamahammar.vercel.app](https://usamahammar.vercel.app)**
 
 ---
 
-## Optivis Labs
+## Portfolio
 
-> *Design and development for ambitious teams.*
-
-Independent studio focused on **creative design**, **web & app development**, **brand strategy**, and **R&D / MVPs**.
+My personal developer site — multi-page portfolio with case studies, live GitHub activity, and a deliberate anti-template design system.
 
 | | |
 |---|---|
-| **Website** | [optivislabs.vercel.app](https://optivislabs.vercel.app) |
-| **Instagram** | [@optivislabs](https://www.instagram.com/optivislabs/) |
-| **Email** | [optivislabs@gmail.com](mailto:optivislabs@gmail.com) |
-| **WhatsApp** | [+234 810 918 0443](https://wa.me/2348109180443) |
-| **Founded** | 2022 · Headquartered in Nigeria |
+| **Live** | [usamahammar.vercel.app](https://usamahammar.vercel.app) |
+| **Stack** | Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 |
+| **Repo** | [`my-portfolio-website`](https://github.com/vip-ultr/my-portfolio-website) *(private)* |
 
-Selected studio work includes brand and web projects for teams like **Rafaz Web**, **Gerawa Rice**, and **Gayu Trading Academy**, plus ongoing client product builds (training institute platforms, portals, and marketing systems).
+Built for substance over spectacle: fixed inset frame, asymmetric work layouts, hero scramble interaction, dark/light themes, and case-study routes (`/work/[slug]`).
 
 ---
 
-## Featured projects
+## Featured work
 
-### Product & platforms
+### Flagship products
 
 | Project | What it is | Links |
 |--------|------------|--------|
-| **Solana Oil Factory** | Permissionless token-distribution infrastructure on Solana — operators launch reward “refineries,” holders claim pro-rata via Merkle snapshots, reputation accumulates on-chain | [Live](https://solanaoilfactory.xyz/) · [Repo](https://github.com/vip-ultr/solana-oil-factory) |
-| **Ohm Markets** | Real-time Solana token analytics terminal — Helius + DexScreener + launchpad data in a sharp trading UI | [Live](https://ohm-mar.vercel.app) · [Repo](https://github.com/vip-ultr/ohm) |
-| **My Video Clipper** | AI-powered livestream clipper — sentiment-aware highlight detection, subtitles, watermarks, aspect-ratio export | [Live](https://my-video-clipper.vercel.app) · [Repo](https://github.com/vip-ultr/my-video-clipper) |
-| **Optivis Labs website** | Editorial studio site — Next.js 15, multi-theme design system, contact + newsletter | [Live](https://optivislabs.vercel.app) |
+| **Sol Oil Factory** | Permissionless token-distribution / refinery platform on Solana. Spec, design system, frontend, and on-chain integration — end to end. | [Live](https://solanaoilfactory.xyz/) · [Frontend](https://github.com/vip-ultr/solana-oil-factory) |
+| **Ohm Markets** | Real-time Solana token analytics terminal — Helius, DexScreener, launchpad data. | [Live](https://ohm-mar.vercel.app) · [Repo](https://github.com/vip-ultr/ohm) |
+| **My Video Clipper** | AI livestream clipper — highlight detection, subtitles, watermarks, aspect-ratio export. | [Live](https://my-video-clipper.vercel.app) · [Repo](https://github.com/vip-ultr/my-video-clipper) |
 
-### Client & web product work
+### Studio & client work
 
-Production builds for real businesses (private repos / under NDA where needed):
+| Project | What it is | Links |
+|--------|------------|--------|
+| **Optivis Labs** | Design & development studio — brand, marketing site, multi-theme design system. | [Live](https://optivislabs.vercel.app) |
+| **Fiitech** | Production marketing + admin + student portal for a Nigerian technical training institute (Next.js, Payload CMS, Postgres). | [Live](https://fiitech.com.ng) |
 
-- **Education / vocational platforms** — multi-audience marketing sites with CMS, student portal, booking, and AI-assisted tools (Next.js, Payload, Postgres)
-- **Brand & marketing sites** — identity systems, landing pages, and conversion-focused web for SMEs and academies
-- **Internal tooling** — Discord multi-server webhook systems, wallet analytics APIs, ops utilities
+Also: brand and web work for teams like **Rafaz Web**, **Gerawa Rice**, and **Gayu Trading Academy**, plus internal tooling and product R&D under the studio.
 
-### Engineering utilities
+### Open source & contributions
 
-| Project | Focus | Link |
-|--------|--------|------|
-| **Helius Range Optimizer** | Adaptive CLI for reconstructing SOL balance history with minimal RPC cost | [Repo](https://github.com/vip-ultr/helius-range-optimizer) |
-| **Custom Data Bags API** | Solana wallet swap analyzer for BAGS-suffix mints via Helius | [Repo](https://github.com/vip-ultr/custom-data-bags-API) |
-| **Discord multi-server webhooks** | Typed webhook orchestration across multiple servers | [Repo](https://github.com/vip-ultr/discord-multi-server-webhook-system) |
+- **Percolator** — frontend contributions to a Solana perpetual-futures ecosystem (mobile tables, theming, UI fixes)
+- **Helius Range Optimizer** — adaptive CLI for reconstructing SOL balance history with low RPC cost · [repo](https://github.com/vip-ultr/helius-range-optimizer)
+- **Custom Data Bags API** — wallet swap analytics for BAGS-suffix mints via Helius · [repo](https://github.com/vip-ultr/custom-data-bags-API)
+- **Discord multi-server webhooks** — typed webhook orchestration · [repo](https://github.com/vip-ultr/discord-multi-server-webhook-system)
 
-### Experiments & games
+### Experiments
 
-Quick builds and interaction experiments:
-
-- [Checkers](https://checkers-game-six.vercel.app) · [Snake](https://snake-game-hazel-three.vercel.app) · [NFT Canvas](https://nft-canvas-project.vercel.app)
+[Checkers](https://checkers-game-six.vercel.app) · [Snake](https://snake-game-hazel-three.vercel.app) · [NFT Canvas](https://nft-canvas-project.vercel.app)
 
 ---
 
 ## Stack
 
 ```text
-Languages     TypeScript · JavaScript · Rust (Solana) · SQL
-Frontend      Next.js · React · Tailwind CSS · Motion · shadcn/ui
+Languages     TypeScript · JavaScript · SQL · Rust (Solana, learning)
+Frontend      Next.js · React · React Native (Expo) · Tailwind CSS · Motion
 Backend       Node.js · Next.js API routes · Express · Supabase / Postgres
-CMS & data    Payload CMS · Neon · Prisma-style workflows
-On-chain      Solana · Anchor · Helius · SPL / Token-2022
-AI            Whisper · Hugging Face · Claude / LLM app integrations
-Tooling       FFmpeg · Vitest · Playwright · GitHub Actions · Vercel
-Design        Brand systems · print-aware production · Figma-to-product
+CMS & data    Payload CMS · Neon · Helius indexer / RPC
+On-chain      Solana · Anchor · wallet adapters · SPL / Token-2022
+AI            Whisper · Hugging Face · LLM app integrations
+Tooling       Git · Vercel · Vitest · Playwright · GitHub Actions · FFmpeg
+Design        Photoshop · CorelDRAW · brand systems · print-aware production
 ```
+
+---
+
+## Optivis Labs
+
+Independent studio for **creative design**, **web & app development**, **brand strategy**, and **R&D / MVPs**.
+
+| | |
+|---|---|
+| **Website** | [optivislabs.vercel.app](https://optivislabs.vercel.app) |
+| **Instagram** | [@optivislabs](https://www.instagram.com/optivislabs/) |
+| **Studio email** | [optivislabs@gmail.com](mailto:optivislabs@gmail.com) |
+| **WhatsApp** | [+234 810 918 0443](https://wa.me/2348109180443) |
 
 ---
 
 ## Currently
 
-- Building and shipping under **[Optivis Labs](https://optivislabs.vercel.app)**
-- Shipping Solana product work (**Oil Factory**, analytics, tooling)
+- Shipping Solana product work (**Sol Oil Factory**, analytics, tooling)
+- Running and growing **[Optivis Labs](https://optivislabs.vercel.app)**
 - Client platforms: education, brand, and ops-backed web products
-- Open to **interesting collaborations**, **contract builds**, and **studio projects**
+- Open to **frontend / full-stack roles**, **Solana collaborations**, and **studio projects**
 
 ---
 
 ## Get in touch
 
-| Channel | |
-|--------|--|
-| **Studio** | [optivislabs.vercel.app](https://optivislabs.vercel.app) |
-| **Email** | [optivislabs@gmail.com](mailto:optivislabs@gmail.com) |
-| **WhatsApp** | [+234 810 918 0443](https://wa.me/2348109180443) |
+| | |
+|--|--|
+| **Portfolio** | [usamahammar.vercel.app](https://usamahammar.vercel.app) |
+| **Email** | [ammarusamah57@gmail.com](mailto:ammarusamah57@gmail.com) |
+| **LinkedIn** | [usamah-ammar](https://linkedin.com/in/usamah-ammar-a06a6627a) |
 | **X** | [@vip_ultr](https://x.com/vip_ultr) |
-| **Instagram** | [@optivislabs](https://www.instagram.com/optivislabs/) |
+| **Studio** | [optivislabs.vercel.app](https://optivislabs.vercel.app) · [optivislabs@gmail.com](mailto:optivislabs@gmail.com) |
 
 <div align="center">
 
 ---
 
-*Clarity of vision · Quality of craft*
+*I build and ship real software — on Solana and beyond.*
 
 </div>
