@@ -127,6 +127,6 @@ Independent studio for **creative design**, **web & app development**, **brand s
 
 ---
 
-*I build and ship real software — on Solana and beyond.*
+*I build and ship real softwares*
 
 </div>
