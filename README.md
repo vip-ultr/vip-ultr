@@ -17,7 +17,7 @@ I design and build web and Web3 applications end to end — interface to on-chai
 [![X](https://img.shields.io/badge/@vip__ultr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vip_ultr)
 [![Email](https://img.shields.io/badge/ammarusamah57%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarusamah57@gmail.com)
 
-Bayero University, Kano, Nigeria · Open to opportunities & collaboration
+Open to opportunities & collaboration
 
 </div>
 
@@ -56,7 +56,6 @@ Built for substance over spectacle: fixed inset frame, asymmetric work layouts, 
 | Project | What it is | Links |
 |--------|------------|--------|
 | **Sol Oil Factory** | Permissionless token-distribution / refinery platform on Solana. Spec, design system, frontend, and on-chain integration — end to end. | [Live](https://solanaoilfactory.xyz/) · [Frontend](https://github.com/vip-ultr/solana-oil-factory) |
-| **Ohm Markets** | Real-time Solana token analytics terminal — Helius, DexScreener, launchpad data. | [Live](https://ohm-mar.vercel.app) · [Repo](https://github.com/vip-ultr/ohm) |
 | **My Video Clipper** | AI livestream clipper — highlight detection, subtitles, watermarks, aspect-ratio export. | [Live](https://my-video-clipper.vercel.app) · [Repo](https://github.com/vip-ultr/my-video-clipper) |
 
 ### Studio & client work
@@ -74,10 +73,6 @@ Also: brand and web work for teams like **Rafaz Web**, **Gerawa Rice**, and **Ga
 - **Helius Range Optimizer** — adaptive CLI for reconstructing SOL balance history with low RPC cost · [repo](https://github.com/vip-ultr/helius-range-optimizer)
 - **Custom Data Bags API** — wallet swap analytics for BAGS-suffix mints via Helius · [repo](https://github.com/vip-ultr/custom-data-bags-API)
 - **Discord multi-server webhooks** — typed webhook orchestration · [repo](https://github.com/vip-ultr/discord-multi-server-webhook-system)
-
-### Experiments
-
-[Checkers](https://checkers-game-six.vercel.app) · [Snake](https://snake-game-hazel-three.vercel.app) · [NFT Canvas](https://nft-canvas-project.vercel.app)
 
 ---
 
